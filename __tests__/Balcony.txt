@@ -1,0 +1,2728 @@
+Wait value: 160
+Loop start: 128
+Loop end: 256
+
+Track 0:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 1:
+
+Instrument: 60
+Resource count: 224
+Loop start resource: 56
+
+Resource 0:
+    Start: 0
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 1:
+    Start: 2
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 2:
+    Start: 4
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 3:
+    Start: 6
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 4:
+    Start: 8
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 5:
+    Start: 10
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 6:
+    Start: 12
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 7:
+    Start: 14
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 8:
+    Start: 20
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 9:
+    Start: 22
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 10:
+    Start: 24
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 11:
+    Start: 26
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 12:
+    Start: 28
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 13:
+    Start: 30
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 14:
+    Start: 32
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 15:
+    Start: 34
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 16:
+    Start: 36
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 17:
+    Start: 38
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 18:
+    Start: 40
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 19:
+    Start: 42
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 20:
+    Start: 44
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 21:
+    Start: 46
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 22:
+    Start: 52
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 23:
+    Start: 54
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 24:
+    Start: 56
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 25:
+    Start: 58
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 26:
+    Start: 60
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 27:
+    Start: 62
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 28:
+    Start: 64
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 29:
+    Start: 66
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 30:
+    Start: 68
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 31:
+    Start: 70
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 32:
+    Start: 72
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 33:
+    Start: 74
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 34:
+    Start: 76
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 35:
+    Start: 78
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 36:
+    Start: 84
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 37:
+    Start: 86
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 38:
+    Start: 88
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 39:
+    Start: 90
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 40:
+    Start: 92
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 41:
+    Start: 94
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 42:
+    Start: 96
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 43:
+    Start: 98
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 44:
+    Start: 100
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 45:
+    Start: 102
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 46:
+    Start: 104
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 47:
+    Start: 106
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 48:
+    Start: 108
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 49:
+    Start: 110
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 50:
+    Start: 116
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 51:
+    Start: 118
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 52:
+    Start: 120
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 53:
+    Start: 122
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 54:
+    Start: 124
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 55:
+    Start: 126
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 56:
+    Start: 128
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 57:
+    Start: 130
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 58:
+    Start: 132
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 59:
+    Start: 134
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 60:
+    Start: 136
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 61:
+    Start: 138
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 62:
+    Start: 140
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 63:
+    Start: 142
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 64:
+    Start: 148
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 65:
+    Start: 150
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 66:
+    Start: 152
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 67:
+    Start: 154
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 68:
+    Start: 156
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 69:
+    Start: 158
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 70:
+    Start: 160
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 71:
+    Start: 162
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 72:
+    Start: 164
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 73:
+    Start: 166
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 74:
+    Start: 168
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 75:
+    Start: 170
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 76:
+    Start: 172
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 77:
+    Start: 174
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 78:
+    Start: 180
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 79:
+    Start: 182
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 80:
+    Start: 184
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 81:
+    Start: 186
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 82:
+    Start: 188
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 83:
+    Start: 190
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 84:
+    Start: 192
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 85:
+    Start: 194
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 86:
+    Start: 196
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 87:
+    Start: 198
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 88:
+    Start: 200
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 89:
+    Start: 202
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 90:
+    Start: 204
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 91:
+    Start: 206
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 92:
+    Start: 212
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 93:
+    Start: 214
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 94:
+    Start: 216
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 95:
+    Start: 218
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 96:
+    Start: 220
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 97:
+    Start: 222
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 98:
+    Start: 224
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 99:
+    Start: 226
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 100:
+    Start: 228
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 101:
+    Start: 230
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 102:
+    Start: 232
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 103:
+    Start: 234
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 104:
+    Start: 236
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 105:
+    Start: 238
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 106:
+    Start: 244
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 107:
+    Start: 246
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 108:
+    Start: 248
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 109:
+    Start: 250
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 110:
+    Start: 252
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 111:
+    Start: 254
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 112:
+    Start: 256
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 113:
+    Start: 258
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 114:
+    Start: 260
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 115:
+    Start: 262
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 116:
+    Start: 264
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 117:
+    Start: 266
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 118:
+    Start: 268
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 119:
+    Start: 270
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 120:
+    Start: 276
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 121:
+    Start: 278
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 122:
+    Start: 280
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 123:
+    Start: 282
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 124:
+    Start: 284
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 125:
+    Start: 286
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 126:
+    Start: 288
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 127:
+    Start: 290
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 128:
+    Start: 292
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 129:
+    Start: 294
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 130:
+    Start: 296
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 131:
+    Start: 298
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 132:
+    Start: 300
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 133:
+    Start: 302
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 134:
+    Start: 308
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 135:
+    Start: 310
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 136:
+    Start: 312
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 137:
+    Start: 314
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 138:
+    Start: 316
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 139:
+    Start: 318
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 140:
+    Start: 320
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 141:
+    Start: 322
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 142:
+    Start: 324
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 143:
+    Start: 326
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 144:
+    Start: 328
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 145:
+    Start: 330
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 146:
+    Start: 332
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 147:
+    Start: 334
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 148:
+    Start: 340
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 149:
+    Start: 342
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 150:
+    Start: 344
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 151:
+    Start: 346
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 152:
+    Start: 348
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 153:
+    Start: 350
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 154:
+    Start: 352
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 155:
+    Start: 354
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 156:
+    Start: 356
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 157:
+    Start: 358
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 158:
+    Start: 360
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 159:
+    Start: 362
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 160:
+    Start: 364
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 161:
+    Start: 366
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 162:
+    Start: 372
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 163:
+    Start: 374
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 164:
+    Start: 376
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 165:
+    Start: 378
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 166:
+    Start: 380
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 167:
+    Start: 382
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 168:
+    Start: 384
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 169:
+    Start: 386
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 170:
+    Start: 388
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 171:
+    Start: 390
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 172:
+    Start: 392
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 173:
+    Start: 394
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 174:
+    Start: 396
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 175:
+    Start: 398
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 176:
+    Start: 404
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 177:
+    Start: 406
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 178:
+    Start: 408
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 179:
+    Start: 410
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 180:
+    Start: 412
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 181:
+    Start: 414
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 182:
+    Start: 416
+    Duration: 4
+    Note: 17
+    Volume: 200
+    Pan: 6
+
+Resource 183:
+    Start: 418
+    Duration: 4
+    Note: 17
+    Volume: 120
+    Pan: 6
+
+Resource 184:
+    Start: 420
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 185:
+    Start: 422
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 186:
+    Start: 424
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 187:
+    Start: 426
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 188:
+    Start: 428
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 189:
+    Start: 430
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 190:
+    Start: 436
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 191:
+    Start: 438
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 192:
+    Start: 440
+    Duration: 4
+    Note: 24
+    Volume: 200
+    Pan: 6
+
+Resource 193:
+    Start: 442
+    Duration: 4
+    Note: 24
+    Volume: 120
+    Pan: 6
+
+Resource 194:
+    Start: 444
+    Duration: 4
+    Note: 28
+    Volume: 200
+    Pan: 6
+
+Resource 195:
+    Start: 446
+    Duration: 4
+    Note: 28
+    Volume: 120
+    Pan: 6
+
+Resource 196:
+    Start: 448
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 197:
+    Start: 450
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 198:
+    Start: 452
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 199:
+    Start: 454
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 200:
+    Start: 456
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 201:
+    Start: 458
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 202:
+    Start: 460
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 203:
+    Start: 462
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 204:
+    Start: 468
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 205:
+    Start: 470
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 206:
+    Start: 472
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 207:
+    Start: 474
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 208:
+    Start: 476
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 209:
+    Start: 478
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 210:
+    Start: 480
+    Duration: 4
+    Note: 16
+    Volume: 200
+    Pan: 6
+
+Resource 211:
+    Start: 482
+    Duration: 4
+    Note: 16
+    Volume: 120
+    Pan: 6
+
+Resource 212:
+    Start: 484
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 213:
+    Start: 486
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 214:
+    Start: 488
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 215:
+    Start: 490
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 216:
+    Start: 492
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 217:
+    Start: 494
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 218:
+    Start: 500
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 219:
+    Start: 502
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+Resource 220:
+    Start: 504
+    Duration: 4
+    Note: 23
+    Volume: 200
+    Pan: 6
+
+Resource 221:
+    Start: 506
+    Duration: 4
+    Note: 23
+    Volume: 120
+    Pan: 6
+
+Resource 222:
+    Start: 508
+    Duration: 4
+    Note: 26
+    Volume: 200
+    Pan: 6
+
+Resource 223:
+    Start: 510
+    Duration: 4
+    Note: 26
+    Volume: 120
+    Pan: 6
+
+============================
+
+Track 2:
+
+Instrument: 47
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 3:
+
+Instrument: 92
+Resource count: 32
+Loop start resource: 8
+
+Resource 0:
+    Start: 0
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 1:
+    Start: 16
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 2:
+    Start: 32
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 3:
+    Start: 48
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 4:
+    Start: 64
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 5:
+    Start: 80
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 6:
+    Start: 96
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 7:
+    Start: 112
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 8:
+    Start: 128
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 9:
+    Start: 144
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 10:
+    Start: 160
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 11:
+    Start: 176
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 12:
+    Start: 192
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 13:
+    Start: 208
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 14:
+    Start: 224
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 15:
+    Start: 240
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 16:
+    Start: 256
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 17:
+    Start: 272
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 18:
+    Start: 288
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 19:
+    Start: 304
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 20:
+    Start: 320
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 21:
+    Start: 336
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 22:
+    Start: 352
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 23:
+    Start: 368
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 24:
+    Start: 384
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 25:
+    Start: 400
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 26:
+    Start: 416
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 27:
+    Start: 432
+    Duration: 16
+    Note: 5
+    Volume: 200
+    Pan: 6
+
+Resource 28:
+    Start: 448
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 29:
+    Start: 464
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 30:
+    Start: 480
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+Resource 31:
+    Start: 496
+    Duration: 16
+    Note: 7
+    Volume: 200
+    Pan: 6
+
+============================
+
+Track 4:
+
+Instrument: 66
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 5:
+
+Instrument: 0
+Resource count: 115
+Loop start resource: 0
+
+Resource 0:
+    Start: 128
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 1:
+    Start: 130
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 2:
+    Start: 131
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 3:
+    Start: 132
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 4:
+    Start: 133
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 5:
+    Start: 134
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 6:
+    Start: 135
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 7:
+    Start: 136
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 8:
+    Start: 137
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 9:
+    Start: 138
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 10:
+    Start: 139
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 11:
+    Start: 140
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 12:
+    Start: 141
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 13:
+    Start: 142
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 14:
+    Start: 143
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 15:
+    Start: 145
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 16:
+    Start: 146
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 17:
+    Start: 148
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 18:
+    Start: 149
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 19:
+    Start: 150
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 20:
+    Start: 151
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 21:
+    Start: 152
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 22:
+    Start: 153
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 23:
+    Start: 154
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 24:
+    Start: 155
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 25:
+    Start: 156
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 26:
+    Start: 157
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 27:
+    Start: 158
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 28:
+    Start: 159
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 29:
+    Start: 161
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 30:
+    Start: 162
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 31:
+    Start: 164
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 32:
+    Start: 165
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 33:
+    Start: 166
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 34:
+    Start: 167
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 35:
+    Start: 168
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 36:
+    Start: 169
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 37:
+    Start: 170
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 38:
+    Start: 171
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 39:
+    Start: 172
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 40:
+    Start: 173
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 41:
+    Start: 174
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 42:
+    Start: 175
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 43:
+    Start: 177
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 44:
+    Start: 178
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 45:
+    Start: 180
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 46:
+    Start: 181
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 47:
+    Start: 182
+    Duration: 1
+    Note: 45
+    Volume: 200
+    Pan: 6
+
+Resource 48:
+    Start: 183
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 49:
+    Start: 184
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 50:
+    Start: 185
+    Duration: 1
+    Note: 45
+    Volume: 120
+    Pan: 6
+
+Resource 51:
+    Start: 186
+    Duration: 1
+    Note: 55
+    Volume: 200
+    Pan: 6
+
+Resource 52:
+    Start: 187
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 53:
+    Start: 188
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 54:
+    Start: 189
+    Duration: 1
+    Note: 55
+    Volume: 120
+    Pan: 6
+
+Resource 55:
+    Start: 190
+    Duration: 1
+    Note: 52
+    Volume: 200
+    Pan: 6
+
+Resource 56:
+    Start: 191
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 57:
+    Start: 192
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 58:
+    Start: 193
+    Duration: 1
+    Note: 52
+    Volume: 120
+    Pan: 6
+
+Resource 59:
+    Start: 194
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 60:
+    Start: 195
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 61:
+    Start: 196
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 62:
+    Start: 197
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 63:
+    Start: 198
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 64:
+    Start: 199
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 65:
+    Start: 200
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 66:
+    Start: 201
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 67:
+    Start: 202
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 68:
+    Start: 203
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 69:
+    Start: 204
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 70:
+    Start: 205
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 71:
+    Start: 206
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 72:
+    Start: 207
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 73:
+    Start: 210
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 74:
+    Start: 211
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 75:
+    Start: 212
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 76:
+    Start: 213
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 77:
+    Start: 214
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 78:
+    Start: 215
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 79:
+    Start: 216
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 80:
+    Start: 217
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 81:
+    Start: 218
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 82:
+    Start: 219
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 83:
+    Start: 220
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 84:
+    Start: 221
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 85:
+    Start: 222
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 86:
+    Start: 223
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 87:
+    Start: 226
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 88:
+    Start: 227
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 89:
+    Start: 228
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 90:
+    Start: 229
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 91:
+    Start: 230
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 92:
+    Start: 231
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 93:
+    Start: 232
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 94:
+    Start: 233
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 95:
+    Start: 234
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 96:
+    Start: 235
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 97:
+    Start: 236
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 98:
+    Start: 237
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 99:
+    Start: 238
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 100:
+    Start: 239
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 101:
+    Start: 242
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 102:
+    Start: 243
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 103:
+    Start: 244
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 104:
+    Start: 245
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+Resource 105:
+    Start: 246
+    Duration: 1
+    Note: 43
+    Volume: 200
+    Pan: 6
+
+Resource 106:
+    Start: 247
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 107:
+    Start: 248
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 108:
+    Start: 249
+    Duration: 1
+    Note: 43
+    Volume: 120
+    Pan: 6
+
+Resource 109:
+    Start: 250
+    Duration: 1
+    Note: 38
+    Volume: 200
+    Pan: 6
+
+Resource 110:
+    Start: 251
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 111:
+    Start: 252
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 112:
+    Start: 253
+    Duration: 1
+    Note: 38
+    Volume: 120
+    Pan: 6
+
+Resource 113:
+    Start: 254
+    Duration: 1
+    Note: 50
+    Volume: 200
+    Pan: 6
+
+Resource 114:
+    Start: 255
+    Duration: 1
+    Note: 50
+    Volume: 120
+    Pan: 6
+
+============================
+
+Track 6:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 7:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 8:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 9:
+
+Instrument: 2
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 10:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 11:
+
+Instrument: 6
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 12:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 13:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 14:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
+
+Track 15:
+
+Instrument: 0
+Resource count: 0
+Loop start resource: 0
+
+============================
